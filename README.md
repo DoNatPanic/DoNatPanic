@@ -33,6 +33,6 @@ Java | Kotlin | Git | Gradle | Android | SDK | XML | MVP | MVVM | Koin | REST | 
 
 Доп. образование:
 - курс по разработке на Flutter от udemy.com
-- курс по Android разработке от Яндекс.Практикум (в процессе) 
+- курс по Android разработке от Яндекс.Практикум (январь 2023 - наст. вр.)
 
 
