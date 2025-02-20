@@ -16,7 +16,7 @@
 
 ## Скиллы
 
-Java | Kotlin | Git | Gradle | Android | SDK | XML | MVP | MVVM | Koin | REST | OkHttp | Retrofit | Coroutines | RxJava | SQLite | Room | Unit Testing | Fragments | Single Activity | Android Jetpack | ConstraintLayout | RecyclerView | SharedPreferences | Code Review
+Java | Kotlin | Git | Gradle | Android SDK | XML | MVP | MVVM | Koin | REST | OkHttp | Retrofit | Coroutines | RxJava | SQLite | Room | Unit Testing | Fragments | Single Activity | Android Jetpack | ConstraintLayout | RecyclerView | SharedPreferences | Code Review
 
 ## Контакты
 
