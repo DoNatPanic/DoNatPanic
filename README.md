@@ -14,30 +14,47 @@
 
 ## 🛠 Технологический стек
 
-**Основные языки:**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+### Языки и платформы
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Архитектура и DI:**  
-![MVP](https://img.shields.io/badge/MVP-FF6B6B?style=flat) ![MVVM](https://img.shields.io/badge/MVVM-5E81AC?style=flat) ![Koin](https://img.shields.io/badge/Koin-FF6D00?style=flat)
+### Архитектура и DI
+![MVP](https://img.shields.io/badge/MVP-%23FF6B6B.svg?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-%235E81AC.svg?style=for-the-badge)
+![Koin](https://img.shields.io/badge/Koin-%23FF6D00.svg?style=for-the-badge)
 
-**Сетевые технологии:**  
-![Retrofit](https://img.shields.io/badge/Retrofit-7E57C2?style=flat) ![OkHttp](https://img.shields.io/badge/OkHttp-6DB33F?style=flat) ![REST](https://img.shields.io/badge/REST_API-FF6B6B?style=flat)
+### Сетевые технологии
+![Retrofit](https://img.shields.io/badge/retrofit-%237E57C2.svg?style=for-the-badge&logo=retrofit&logoColor=white)
+![OkHttp](https://img.shields.io/badge/OkHttp-%236DB33F.svg?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-%23FF6B6B.svg?style=for-the-badge)
 
-**Базы данных:**  
-![Room](https://img.shields.io/badge/Room-4285F4?style=flat) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+### Базы данных и хранение данных
+![Room](https://img.shields.io/badge/Room-%234285F4.svg?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SharedPreferences](https://img.shields.io/badge/Shared_Prefs-9B59B6?style=for-the-badge)
 
-**Асинхронность:**  
-![Coroutines](https://img.shields.io/badge/Coroutines-388E3C?style=flat) ![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat)
+### Асинхронность
+![Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-%23388E3C.svg?style=for-the-badge)
+![RxJava](https://img.shields.io/badge/RxJava-%23B7178C.svg?style=for-the-badge)
 
-**UI и компоненты:**  
-![XML](https://img.shields.io/badge/XML-FF6600?style=flat) ![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=flat)  
-![RecyclerView](https://img.shields.io/badge/RecyclerView-34A853?style=flat) ![ConstraintLayout](https://img.shields.io/badge/ConstraintLayout-FFBA00?style=flat)  
-![Fragments](https://img.shields.io/badge/Fragments-8A2BE2?style=flat) ![Single_Activity](https://img.shields.io/badge/Single_Activity-00BFFF?style=flat)
+### UI компоненты
+![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge)
+![Android Jetpack](https://img.shields.io/badge/Jetpack-%234285F4.svg?style=for-the-badge)
+![RecyclerView](https://img.shields.io/badge/RecyclerView-%2334A853.svg?style=for-the-badge)
+![ConstraintLayout](https://img.shields.io/badge/ConstraintLayout-%23FFBA00.svg?style=for-the-badge)
+![Fragments](https://img.shields.io/badge/Fragments-8A2BE2?style=for-the-badge)
+![Single_Activity](https://img.shields.io/badge/Single_Activity-00BFFF?style=for-the-badge)
 
-**Инструменты и тестирование:**  
-![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)  
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=flat) ![Code Review](https://img.shields.io/badge/Code_Review-FFD700?style=flat)  
-![SharedPreferences](https://img.shields.io/badge/Shared_Prefs-9B59B6?style=flat) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Инструменты
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Тестирование
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-%2325A162.svg?style=for-the-badge&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code%20Review-%23FFD700.svg?style=for-the-badge)
 
 ## 📬 Контакты
 
